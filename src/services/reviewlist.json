@@ -1,0 +1,7 @@
+{
+    "reviews": [
+        {"reviwername": "James k", "date":"2 days ago", "rating": 4, "reviewtitle":"It is awesome", "review": "I bought this product just by seeing review, believe me everything is perfect in this product. Before getting into the details, I’d like to point out the very welcome news that Sony says all its new TVs for 2017 will be HDR compatible. Even non-4K ones. They will all support HDR10 out of the box, and the top models (A1, ZD9, XE94, XE93) are compatible with Dolby Vision too.", "helpful": {"yes":5, "no":0}, "recommend": true},
+        {"reviwername": "Jackie", "date":"3 days ago", "rating": 2.5, "reviewtitle":"work best when outside", "review": "I bought this indoor thing and it works best when I am aoutside", "helpful": {"yes":4, "no":1}, "recommend": false},
+        {"reviwername": "Quilice", "date":"12-02-2018", "rating": 4, "reviewtitle":"value for money", "review": "This product is value for money. With that out of the way, let’s look at some TVs. I’ll start with all the numbers and sizes first, and then go through the differences below. Read more at http://www.trustedreviews.com/news/sony-bravia-tv-series-model-numbers-explained-2951944#69EK56GqzzEQmxdv.99", "helpful": {"yes":3, "no":1}, "recommend": true}     
+    ]
+}

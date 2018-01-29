@@ -8,7 +8,8 @@
     "develop": "./node_modules/.bin/webpack-dev-server",
     "dev:server": "webpack-dev-server --hot --inline",
     "watch": "webpack -w -d",
-    "build": "webpack -p",
+    "build:prod": "./node_modules/.bin/webpack -p",
+    "build:dev": "./node_modules/.bin/webpack",
     "lint": "node_modules/.bin/esw webpack.config.* src --color",
     "lint:watch": "npm run lint -- --watch"
   },
@@ -28,10 +29,11 @@
     "npm-run-all": "^4.0.2",
     "sass-loader": "^6.0.6",
     "style-loader": "^0.19.1",
-    "webpack": "^2.4.1",
+    "webpack": "^2.7.0",
     "webpack-dev-server": "^2.11.0"
   },
   "dependencies": {
+    "axios": "^0.17.1",
     "jquery": "^3.2.1",
     "rating-gen": "0.0.6"
   }
