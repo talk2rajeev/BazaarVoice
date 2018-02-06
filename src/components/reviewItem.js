@@ -7,7 +7,7 @@ export function reviewItem(item, starPercentageRounded){
                     </div>
                     <div class="col-lg-11, col-md-11, col-sm-11 col-xs-10">
                         ${readOnlyRatingStar(starPercentageRounded)}
-                        <span class="reviewer-name  pull-left">${item.reviwername}</span>
+                        <span class="reviewer-name  pull-left">${item.reviwername} - MM</span>
                         <span class="review-date pull-left">${item.date}</span>
                         <div class="clearfix"></div>
                         <div class="review-title">${item.reviewtitle}</div>
